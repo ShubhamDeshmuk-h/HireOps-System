@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "googleapis": "^154.0.0",
+    "nodemailer": "^7.0.5",
+    "react-datepicker": "^8.4.0",
+    "react-modal": "^3.16.3",
+    "react-select": "^5.10.2"
+  }
+}
